@@ -13,6 +13,8 @@
   <a href="https://github.com/M5412islam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+
 </div>
 
 <br>
@@ -32,40 +34,36 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
 **Languages**
-<br>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="38" height="38"/>
+</p>
 
 **Frontend**
-<br>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="38" height="38"/>
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="38" height="38"/>
-
-</td>
-<td valign="top" width="50%">
+</p>
 
 **Backend & Databases**
-<br>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="38" height="38"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="38" height="38"/>
+</p>
 
 **Tools, AI/ML & Platforms**
-<br>
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="38" height="38"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38"/>
@@ -73,27 +71,24 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="38" height="38"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="38" height="38"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 <br>
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M5412islam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=M5412islam&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M5412islam&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</p>
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M5412islam&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M5412islam&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=M5412islam&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-
-</div>
+</p>
 
 <br>
 
