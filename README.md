@@ -32,11 +32,7 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</div>
-
-<br>
+<img align="right" width="280" src="https://raw.githubusercontent.com/abraham-kwizera/abraham-kwizera/refs/heads/main/animation/animation-hero.gif" alt="coding animation" />
 
 **Languages**
 <p align="left">
@@ -77,7 +73,7 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="38" height="38"/>
 </p>
 
-<br>
+<br clear="both">
 
 ## 📊 GitHub Analytics
 
