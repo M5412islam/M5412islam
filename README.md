@@ -77,17 +77,14 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M5412islam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M5412islam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="top langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M5412islam&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="top langs"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M5412islam&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=M5412islam&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
 </p>
 
 <br>
