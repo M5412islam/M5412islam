@@ -96,6 +96,14 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 
 <br>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/M5412islam/M5412islam/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
+</p>
+
+<br>
+
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" />
 </div>
