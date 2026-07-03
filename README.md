@@ -33,7 +33,7 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/coding-gif.gif" height="180">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </div>
 
 <br>
