@@ -13,8 +13,6 @@
   <a href="https://github.com/M5412islam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-
 </div>
 
 <br>
@@ -33,6 +31,8 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 <br>
 
 ## 🛠️ Tech Stack
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
 
 **Languages**
 <p align="left">
@@ -73,13 +73,13 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="38" height="38"/>
 </p>
 
-<br>
+<br clear="both">
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M5412islam&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M5412islam&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=M5412islam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M5412islam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="top langs"/>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=M5412islam&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=M5412islam&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
 </p>
 
 <br>
