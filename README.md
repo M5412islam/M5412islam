@@ -77,10 +77,8 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M5412islam&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="top langs"/>
+<img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,nodejs,mongodb,firebase&perline=8" alt="most used languages" />
 </p>
 
 <p align="center">
