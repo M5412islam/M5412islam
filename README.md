@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Muhammad%20Islam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20MERN%20%2B%20AI%2FML&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Muhammad%20Islam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18" />
 
 <a href="https://www.linkedin.com/in/muhammad-islam-37b82a232">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+from+Pakistan;MERN+Stack+%7C+React+Native+%7C+AI%2FML;Building+intelligent%2C+full-stack+products;Open+to+Software+Engineer+roles;&font=Fira+Code&center=true&width=500&height=45&color=0e75b6&vCenter=true&size=22" />
