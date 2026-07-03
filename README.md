@@ -32,7 +32,7 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 
 ## 🛠️ Tech Stack
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abraham-kwizera/abraham-kwizera/refs/heads/main/animation/animation-hero.gif" alt="coding animation" />
+<img align="right" width="560" src="https://raw.githubusercontent.com/abraham-kwizera/abraham-kwizera/refs/heads/main/animation/animation-hero.gif" alt="coding animation" />
 
 **Languages**
 <p align="left">
