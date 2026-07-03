@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Islam 👋</h1>
-<h3 align="center">Software Engineer from Pakistan | Building with Web, Mobile & Data</h3>
+<h3 align="center">Software Engineer | MERN Stack, React Native & AI/ML | Lahore, Pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=M5412islam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,11 +10,13 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **[project name here]**
-- 🌱 Learning **[technology you're currently learning]**
-- 💬 Ask me about **JavaScript, React, Node.js, Python**
+- 🎓 BS Software Engineering @ **FAST-NUCES, Lahore** (2021 – 2026)
+- 💼 Ex Web Developer Intern @ **Pioneer Times System** — MERN stack + .NET frontend/ML integration
+- 🔭 Currently building **PetCare** — a React Native app with an AI-powered pet disease detection model
+- 🌱 Deepening my skills in **TensorFlow/Keras model deployment** and scalable backend architecture
+- 💬 Ask me about **MERN Stack, React Native, Python/TensorFlow, Android, REST APIs**
 - 📫 Reach me at **miso60800@gmail.com**
-- ⚡ Fun fact: **[something personal/fun]**
+- ⚡ Fun fact: I trained a CNN to diagnose pet diseases from photos — 94% training accuracy!
 
 ---
 
@@ -58,6 +60,27 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>
 </p>
+
+---
+
+### 💡 Featured Projects
+
+**🐾 [PetCare App](https://github.com/M5412islam)** — *React Native, Firebase, Flask, TensorFlow*
+Cross-platform pet health app with AI-driven disease detection (MobileNetV2 CNN via Flask API), real-time vet appointment scheduling, and a medical records dashboard. Firebase Auth + FCM for secure login and reminders.
+
+**🧠 [PetCare AI Model](https://github.com/M5412islam)** — *Python, TensorFlow, Keras, OpenCV*
+21-class cat & dog disease classifier using two-phase MobileNetV2 transfer learning. Tackled class imbalance with augmentation & class weights — 94% training / 74.56% test accuracy. Served via Flask REST API returning Top-2 predictions.
+
+**💼 [Job-Link](https://github.com/M5412islam)** — *MERN Stack*
+Full-stack job portal with JWT role-based auth — companies post vacancies, workers browse/filter and track applications via an MVC Express API + React frontend.
+
+**🚗 [GearUp](https://github.com/M5412islam)** — *Android, Java, Firebase*
+Vehicle workshop manager for repair shops — customer profiles, appointments, and service histories with live Firebase sync and FCM maintenance reminders.
+
+**📅 [Task Scheduler](https://github.com/M5412islam)** — *Java, Java Swing*
+Desktop task management system with a conflict-detection algorithm flagging scheduling overlaps across users and organisations.
+
+> 🔗 Replace the links above with the actual repo URLs once you confirm them.
 
 ---
 
