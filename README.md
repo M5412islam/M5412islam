@@ -23,7 +23,7 @@
 name: Muhammad Islam
 role: Software Engineer
 education: BS Software Engineering @ FAST-NUCES, Lahore (2021 - 2026)
-focus: [MERN Stack, React Native, Python / TensorFlow, Android]
+focus: [MERN Stack, React Native,AI Modal Training, Javascript, C++ , Python, TensorFlow]
 status: 🟢 Open to Software Engineer opportunities
 fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% training accuracy"
 ```
@@ -86,13 +86,7 @@ fun_fact: "Trained a CNN that diagnoses pet diseases from a single photo - 94% t
 </p>
 
 <br>
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/M5412islam/M5412islam/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
-</p>
-
-<br>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" />
